@@ -1,0 +1,1 @@
+{"your_input": "bro bro bro", "request_response": "{\n  \"args\": {}, \n  \"headers\": {\n    \"Accept\": \"*/*\", \n    \"Accept-Encoding\": \"gzip, deflate\", \n    \"Host\": \"httpbin.org\", \n    \"User-Agent\": \"python-requests/2.8.1\"\n  }, \n  \"origin\": \"52.32.81.143\", \n  \"url\": \"http://httpbin.org/get\"\n}\n"}
